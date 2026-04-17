@@ -12,6 +12,10 @@
 
 [开始阅读](https://alpwoz.github.io/life-of-21/)
 
+### 山间的恶魔
+
+[开始阅读](https://alpwoz.github.io/demon-of-mountains/)
+
 ---
 
 ## 自传
