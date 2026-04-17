@@ -9,7 +9,6 @@
 ## 小说
 
 ### 二十一的人生
-一部关于命运、记忆与人生轨迹的小说。
 
 [开始阅读](https://alpwoz.github.io/life-of-21/)
 
@@ -17,7 +16,7 @@
 
 ## 自传
 [开始阅读](https://alpwoz.github.io/my-youth/)
-
+### 我的青春
 
 ### 诗歌选集
 [开始阅读](https://alpwoz.github.io/poem/)
