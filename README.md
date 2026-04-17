@@ -38,3 +38,8 @@
 [开始阅读](https://alpwoz.github.io/record/)
 
 ---
+
+### 各种杂谈
+[开始阅读](https://alpwoz.github.io/talk/)
+
+---
