@@ -19,8 +19,10 @@
 ---
 
 ## 自传
-[开始阅读](https://alpwoz.github.io/my-youth/)
 ### 我的青春
+[开始阅读](https://alpwoz.github.io/my-youth/)
+
+---
 
 ### 诗歌选集
 [开始阅读](https://alpwoz.github.io/poem/)
