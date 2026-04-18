@@ -29,8 +29,8 @@
 
 ---
 
-### 短篇与散文选集
-[开始阅读](https://alpwoz.github.io/essay/)
+### 随笔与杂谈
+[开始阅读](https://alpwoz.github.io/talk/)
 
 ---
 
@@ -39,7 +39,10 @@
 
 ---
 
-### 各种杂谈
-[开始阅读](https://alpwoz.github.io/talk/)
+### 短篇与散文选集
+[开始阅读](https://alpwoz.github.io/essay/)
 
 ---
+
+
+
