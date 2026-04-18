@@ -6,6 +6,12 @@
 
 ---
 
+## 自传
+### 我的青春
+[开始阅读](https://alpwoz.github.io/my-youth/)
+---
+
+
 ## 小说
 
 ### 二十一的人生
@@ -18,9 +24,6 @@
 
 ---
 
-## 自传
-### 我的青春
-[开始阅读](https://alpwoz.github.io/my-youth/)
 
 ---
 
