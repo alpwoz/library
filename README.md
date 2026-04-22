@@ -21,7 +21,7 @@
 
 ### 山间的恶魔
 
-[开始阅读](https://alpwoz.github.io/Demon-of-mountains/)
+[开始阅读](https://alpwoz.github.io/Demon-between-mountains/)
 
 ---
 
